@@ -1,8 +1,8 @@
 body {
-    background-color: black;
-}
-
-img {
-    display: flex;
-    justify-content: center;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
 }
